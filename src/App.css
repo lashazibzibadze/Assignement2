@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 18px;
+  color white;
+}
+
+.container {
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.changebutton {
+  padding: 16px 32px;
+  cursor: pointer;
+  font-size: 14px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.changebutton:hover {
+  transform: scale(1.1);
+  background-color: gray;
+}
