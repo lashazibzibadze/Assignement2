@@ -1,12 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Assignment Details
 
-Currently, two official plugins are available:
+### Due Date
+**May 2nd**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Task
+1. **Create a Webpage**:
+    - Add a button to the page.
+    - Make the background alternate between 3-5 colors when the button is clicked.
 
-## Expanding the ESLint configuration
+2. **Project Setup**:
+    - Follow the guide to set up the project using Vite:  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. **Implementation**:
+    - Use **React** for the project.
+    - Utilize `useState` to track the current color index.  
+
+4. **Styling**:
+    - Use **CSS** and **Flexbox** to center the button on the page.  
